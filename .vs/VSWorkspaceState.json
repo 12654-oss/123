@@ -1,0 +1,11 @@
+{
+  "ActiveTargetSystem": "WSL: Ubuntu",
+  "ExpandedNodes": [
+    "",
+    "\\CGImysql",
+    "\\http",
+    "\\timer"
+  ],
+  "SelectedNode": "\\timer\\lst_timer.h",
+  "PreviewInSolutionExplorer": false
+}
